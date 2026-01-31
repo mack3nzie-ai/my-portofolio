@@ -30,15 +30,15 @@
   },
   "hero": {
     "greeting": "Hi",
-    "name": "Your Name",
-    "title": "Full Stack Developer",
-    "description": "I build exceptional and accessible digital experiences for the web.",
+    "name": "Willy Syachputra",
+    "title": "Network Engineer",
+    "description": "Ensuring secure, high-performance network connectivity and providing dedicated technical support for seamless operations.",
     "image": "/images/avatar.png",
     "resume": "https://technical-resume.edgeone.app/"
   },
   "about": {
     "title": "About Me",
-    "description": "Write a detailed description about yourself, your background, and your interests. This section helps visitors get to know you better.",
+    "description": "I specialize in keeping digital environments stable and secure. With practical experience in network troubleshooting, IT support, and web quality assurance (testing), I bring a well-rounded perspective to technical problem-solving. Whether it's optimizing a network or hunting for bugs in a web application, my goal is always the same: reliability and efficiency.",
     "button": "Download CV",
     "image": "/images/avatar.png"
   },
