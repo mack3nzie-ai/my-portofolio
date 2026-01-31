@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Willy Syachputra - Portfolio',
-  description: 'Deep Learning Engineer & Data Scientist Portfolio',
+  description: 'Network Engineer Portfolio',
 };
 
 export default function RootLayout({
